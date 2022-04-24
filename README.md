@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azxa318258p
+- 👋 Hi, I’m @jim
 - 👀 I’m interested in python and C++
 - 🌱 I’m currently learning data structure and Deep learning
 - 📫 cbf107020@nptu.edu.tw
