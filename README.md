@@ -12,4 +12,4 @@
 | 2022.7-2022.8 | 緯創資通 AI數據模型實習生 (為期兩個月) | - |
 | 2018.9-2022.6 | 屏東大學 資訊管理學系 (9/55) | [作品集](https://sites.google.com/view/jim-yang/%E6%A5%8A%E6%89%BF%E5%B3%BB-%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81/%E5%A4%A7%E5%AD%B8%E6%99%82%E6%9C%9F%E4%BD%9C%E5%93%81%E9%9B%86?authuser=0) |
 
-![image](resume.png)
+![image](Resume.png)
