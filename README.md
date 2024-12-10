@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @jim
 - 👀 I’m interested in python and C++
 - 🌱 I’m currently learning data structure and Deep learning
-- 📫 Jim_Yang_C@smail.nchu.edu.tw
+- 📫 jimyang.c1999@gmail.com
 
 | 日期 | 經歷 | 備註 |
 | --- | --- | --- |
+| 2024.10.7 | 於台積電入職 |  |
+| 2023.10.17 | 取得台積電**預聘**聘僱通知書 職稱:IT DevOps Engineer | |
 | 2023.7-2023.8 | 台積電 IT實習生(DevOps) (為期兩個月) | [Link](https://sites.google.com/view/jim-yang/%E6%A5%8A%E6%89%BF%E5%B3%BB-%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81/2023-tsmc-it-intern?authuser=0) |
 | 2023.8.11 | 台積電 IT INTERN HACKATHON 獲得 **第三名(共十組)** | [Link](https://sites.google.com/view/jim-yang/%E6%A5%8A%E6%89%BF%E5%B3%BB-%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81/2023-tsmc-it-intern?authuser=0#h.wl9x1upbwqrg) |
 | 2023.2.11 | TSMC IT CareerHack 智慧停車 APP 車牌影像辨識與車位庫存管理 **冠軍 (初試約500人)** | [Link](https://sites.google.com/view/jim-yang/%E6%A5%8A%E6%89%BF%E5%B3%BB-%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81/2023-tsmc-it-careerhack-%E6%99%BA%E6%85%A7%E5%81%9C%E8%BB%8A-app-%E8%BB%8A%E7%89%8C%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98%E8%88%87%E8%BB%8A%E4%BD%8D%E5%BA%AB%E5%AD%98%E7%AE%A1%E7%90%86-%E5%86%A0%E8%BB%8D?authuser=0) |
